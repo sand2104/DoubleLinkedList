@@ -1,0 +1,8 @@
+C:\data\Doublelinkedlist\Doublelinkedlist\bin\Debug\Doublelinkedlist.exe.config
+C:\data\Doublelinkedlist\Doublelinkedlist\bin\Debug\Doublelinkedlist.exe
+C:\data\Doublelinkedlist\Doublelinkedlist\bin\Debug\Doublelinkedlist.pdb
+C:\data\Doublelinkedlist\Doublelinkedlist\obj\Debug\Doublelinkedlist.csproj.AssemblyReference.cache
+C:\data\Doublelinkedlist\Doublelinkedlist\obj\Debug\Doublelinkedlist.csproj.SuggestedBindingRedirects.cache
+C:\data\Doublelinkedlist\Doublelinkedlist\obj\Debug\Doublelinkedlist.csproj.CoreCompileInputs.cache
+C:\data\Doublelinkedlist\Doublelinkedlist\obj\Debug\Doublelinkedlist.exe
+C:\data\Doublelinkedlist\Doublelinkedlist\obj\Debug\Doublelinkedlist.pdb
